@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: inherit;
+  border-style: dotted none none;
+  border-color: GREY;
+  border-width: 13px;
+  width: 7.5%;
+}
+
+h1 {
+  font-family: "Lucida Handwriting", cursive;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: "Garamond", serif;
+  color: #66BFBF
+}
+p {
+  color: grey;
+  font-size: 135%;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Garamond",sans-serif;}
+  table {
+    font-size: 110%;
+    font-weight: bold;
+    font-family: "Garamond",sans-serif;
+  }
